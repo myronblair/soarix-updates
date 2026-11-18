@@ -1,0 +1,10 @@
+{
+  "channel": "stable",
+  "version": "0.1",
+  "image": "ghcr.io/myronblair/soarix",
+  "tag": "latest",
+  "released": "2026-11-17",
+  "notes": [
+    "First Soarix build"
+  ]
+}
