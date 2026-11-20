@@ -1,10 +1,12 @@
 {
   "channel": "testing",
   "version": "0.1",
-  "image": "ghcr.io/myronblair/soarix",
+  "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
-  "released": "2026-11-17",
+  "released": "2026-11-20",
   "notes": [
-    "First Soarix build"
+    "Licensed install and updates from licensing.tomtomenterprises.com",
+    "New Soarix desktop: app drawer, app store (Flathub), Soarix apps",
+    "Installer fixes: license key format, create-your-login step, no more frozen progress"
   ]
 }
