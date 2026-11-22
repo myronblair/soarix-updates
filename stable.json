@@ -1,10 +1,11 @@
 {
   "channel": "stable",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
   "released": "2026-11-21",
   "notes": [
+    "Pop-up menus (settings lists, power menu) now use the Soarix colours",
     "Version numbers now work: this is Soarix 0.2.0 (shown at the login screen, in About and by soarix-update status)",
     "New Appearance app: wallpaper (five to choose from), light or dark theme, accent colour",
     "Display Settings: lock screen with a clock, automatic lock, and a screen saver that turns the screen off",
