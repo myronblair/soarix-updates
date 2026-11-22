@@ -1,10 +1,12 @@
 {
   "channel": "testing",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
   "released": "2026-11-22",
   "notes": [
+    "The installer can now install the Server edition: pick \"Install Soarix as a server\" in the boot menu (your license must include it)",
+    "Version number shown in the installer boot menu",
     "Windows option in Appearance: tiled or floating (overlapping) windows, Super+V floats one window",
     "Add-ons manager (Apps and Add-ons) for private software such as NovaCPX; the Store still handles public apps",
     "All GTK 3 apps now use the Soarix colors too (Print Settings, Network Connections and more)",
