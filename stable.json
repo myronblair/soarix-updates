@@ -1,12 +1,15 @@
 {
   "channel": "stable",
-  "version": "0.1",
+  "version": "0.2.0",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
-  "released": "2026-11-20",
+  "released": "2026-11-21",
   "notes": [
-    "Licensed install and updates from licensing.tomtomenterprises.com",
-    "New Soarix desktop: app drawer, app store (Flathub), Soarix apps",
-    "Installer fixes: license key format, create-your-login step, no more frozen progress"
+    "Version numbers now work: this is Soarix 0.2.0 (shown at the login screen, in About and by soarix-update status)",
+    "New Appearance app: wallpaper (five to choose from), light or dark theme, accent colour",
+    "Display Settings: lock screen with a clock, automatic lock, and a screen saver that turns the screen off",
+    "Launchers fixed: Soarix Update (now a menu), Soarix License and Soarix Essentials open properly",
+    "The screen starts at 1080p in virtual machines; SoarixOS wallpaper by default",
+    "Installer: no more freeze at the end, computer name and Wi-Fi setup, cleaner finish"
   ]
 }
