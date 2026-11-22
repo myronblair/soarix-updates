@@ -1,10 +1,11 @@
 {
   "channel": "stable",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
   "released": "2026-11-21",
   "notes": [
+    "New System Information window: hardware, edition, switch between command line, desktop and server, upgrade your license key",
     "New Date & Time window: time zone, 12-hour or 24-hour (military) time, automatic time, manual date and time",
     "American spelling throughout the Soarix text",
     "Soarix Update, License and Essentials are now graphical windows in the Soarix style",
