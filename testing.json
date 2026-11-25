@@ -1,10 +1,11 @@
 {
   "channel": "testing",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
   "released": "2026-11-24",
   "notes": [
+    "The system log is now kept on disk from the very first start, so a problem on the first boot can still be read afterwards",
     "The server's default web page now says Soarix (it showed another system's name before)",
     "First start of the desktop or server edition now shows what it is doing on screen, and sets the clock first so the download is not delayed",
     "The installer now sets the computer's clock correctly at the end of an install (arrives with the next installer ISO)",
