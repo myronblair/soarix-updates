@@ -1,10 +1,13 @@
 {
   "channel": "stable",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
-  "released": "2026-11-22",
+  "released": "2026-11-24",
   "notes": [
+    "The server's default web page now says Soarix (it showed another system's name before)",
+    "First start of the desktop or server edition now shows what it is doing on screen, and sets the clock first so the download is not delayed",
+    "The installer now sets the computer's clock correctly at the end of an install (arrives with the next installer ISO)",
     "The installer can now install the Server edition: pick \"Install Soarix as a server\" in the boot menu (your license must include it)",
     "Version number shown in the installer boot menu",
     "Windows option in Appearance: tiled or floating (overlapping) windows, Super+V floats one window",
