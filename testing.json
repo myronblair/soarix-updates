@@ -1,10 +1,14 @@
 {
   "channel": "testing",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
-  "released": "2026-11-24",
+  "released": "2026-11-27",
   "notes": [
+    "Soarix's own windows open faster: each one now loads only what it needs",
+    "The Light theme now also changes Soarix's own windows (Update, Appearance, Network and the rest)",
+    "Appearance: Reset in the menu now also puts windows back side by side",
+    "Under the hood: every edition is now built from one list of files and apps, so a fresh install and an update always match",
     "The system log is now kept on disk from the very first start, so a problem on the first boot can still be read afterwards",
     "The server's default web page now says Soarix (it showed another system's name before)",
     "First start of the desktop or server edition now shows what it is doing on screen, and sets the clock first so the download is not delayed",
