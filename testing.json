@@ -1,10 +1,17 @@
 {
   "channel": "testing",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "image": "licensing.tomtomenterprises.com/soarix/core",
   "tag": "latest",
   "released": "2026-11-27",
   "notes": [
+    "Notifications, the terminal, the login screen and the app drawer now share the Soarix look, and Appearance keeps them in step with your theme",
+    "The app drawer has a Favorites row at the top; pin the apps you use most",
+    "Settings: a new Workspaces card chooses a fixed number of workspaces or lets them grow as needed",
+    "Add-ons can now be installed on an installed computer (they could not be unpacked before), and /usr/local is writable for your own programs",
+    "Server: the NovaCPX hosting panel is available as an add-on (with a license that includes it)",
+    "Server: PHP 7.4, 8.1, 8.2, 8.3 and 8.4 side by side, plus sqlite3, DKIM key tools and a web terminal",
+    "Server: security auditing is on, so SELinux problems can be diagnosed",
     "Soarix's own windows open faster: each one now loads only what it needs",
     "The Light theme now also changes Soarix's own windows (Update, Appearance, Network and the rest)",
     "Appearance: Reset in the menu now also puts windows back side by side",
